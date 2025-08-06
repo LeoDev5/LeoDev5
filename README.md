@@ -1,11 +1,11 @@
 # Welcome 👋
 
-![m3uscrapper](https://github.com/Endermanch/Endermanch/blob/main/header.png)
+![m3uscrapper](https://github.com/m3uscrapper/m3uscrapper/blob/main/f24ed682-1d4a-4e77-a154-7dc7a2793e8b-profile_banner-480.png)
 
-I primarily code in **C/++** as a hobby and officially work as a **full-stack developer**.
-However, I'm mostly known for messing with Windows on an unusally sophisticated low level. 🛠
+I primarily code in **Python** as a hobby and officially work with **C/++**.
+However, I mainly try to be known with my malware. I do a lot of GDI (mostly visual, without MBR Overwrite) but also ransomware and other for educational purposes. 🛠
 
-I have over 350K subscribers on [YouTube](https://go.enderman.ch/youtube) and over 32K followers on [Twitter](https://go.enderman.ch/twitter).  
+I have a [YouTube Channel](https://go.enderman.ch/youtube) and over 32K followers on [Twitter](https://go.enderman.ch/twitter).  
 **I am [Enderman](https://enderman.ch), but you can call me Andrew.**
 
 <img align="right" alt="Enderman" width="180" src="https://github.com/Endermanch/Endermanch/blob/main/enderman.gif" />
