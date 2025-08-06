@@ -19,4 +19,4 @@ I have a [YouTube Channel](https://www.youtube.com/@EnderMalware/), go take a lo
 The project I'm most proud of is my very first GDI coded in C++. It was my first time coding in C++ and I was very proud of my accomplishment. 
 
 ### Statistics
-[![EnderMalware's GitHub stats](https://github-readme-stats.vercel.app/api?username=endermalware&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=endermalware&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
