@@ -33,5 +33,5 @@ The project I'm most proud of is my very first GDI coded in C++. It was my first
 </div>
 <div align="center">
     
-  ![snake gif](https://github.com/EnderMalware/endermalware/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/EnderMalware/EnderMalware/blob/output/github-snake-dark.svg)
 </div>
